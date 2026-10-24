@@ -1,4 +1,4 @@
-﻿/*
+/*
    Copyright 2016-2022 LIPtoH <liptoh.codebase@gmail.com>
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -293,7 +293,7 @@ namespace TS_SE_Tool
 
                 var filename = Directory.GetCurrentDirectory() + @"\updater\ts.set.newversion.zip";
 
-                foreach (string url in new[] { Web_Utilities.External.linkDownloadVersion, Web_Utilities.External.linkDownloadVersion2 })
+                foreach (string url in new[] { Web_Utilities.External.linkDownloadVersion, Web_Utilities.External.linkDownloadVersion2 }.Distinct())
                 {
                     bool available =  Web_Utilities.External.RemoteFileExists(url);
 

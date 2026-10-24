@@ -1,4 +1,4 @@
-﻿/*
+/*
    Copyright 2016-2022 LIPtoH <liptoh.codebase@gmail.com>
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -40,22 +40,23 @@ namespace TS_SE_Tool.Utilities
     {
         internal static Web_Utilities External = new Web_Utilities();
 
-        internal string linkCheckVersion    = "https://rebrand.ly/TS-SET-CheckVersion";
-        internal string linkDownloadVersion = "https://rebrand.ly/TS-SET-Download";
+        // Community fork update manifest and release asset. The release zip SHA-512 is published in release/current.txt.
+        internal string linkCheckVersion    = "https://raw.githubusercontent.com/leandroroq/TS-SE-Tool/main/release/current.txt";
+        internal string linkDownloadVersion = "https://github.com/leandroroq/TS-SE-Tool/releases/download/v0.3.12.0/TS-SE-Tool-0.3.12.0-win-x64.zip";
         internal string linkYoutubeTutorial = "https://rebrand.ly/TS-SET-Tutorial";
 
-        internal string linkCheckVersion2 = "https://liptoh.twilightparadox.com/TS-SET-CheckVersion";
-        internal string linkDownloadVersion2 = "https://liptoh.twilightparadox.com/TS-SET-Download";
+        internal string linkCheckVersion2 = "https://raw.githubusercontent.com/leandroroq/TS-SE-Tool/main/release/current.txt";
+        internal string linkDownloadVersion2 = "https://github.com/leandroroq/TS-SE-Tool/releases/download/v0.3.12.0/TS-SE-Tool-0.3.12.0-win-x64.zip";
 
         internal string linkHelpDeveloper = "https://www.paypal.me/LIPtoHCode";
         internal string linkMailDeveloper = "liptoh.codebase@gmail.com";
 
         internal string linkSCSforum = "https://forum.scssoft.com/viewtopic.php?f=34&t=266092";
         internal string linkTMPforum = "https://forum.truckersmp.com/index.php?/topic/79561-ts-saveeditor-tool";
-        internal string linkGithub = "https://github.com/LIPtoH/TS-SE-Tool";
+        internal string linkGithub = "https://github.com/leandroroq/TS-SE-Tool";
 
-        internal string linkGithubReleases = "https://github.com/LIPtoH/TS-SE-Tool/releases";
-        internal string linkGithubReleasesLatest = "https://github.com/LIPtoH/TS-SE-Tool/releases/latest";
+        internal string linkGithubReleases = "https://github.com/leandroroq/TS-SE-Tool/releases";
+        internal string linkGithubReleasesLatest = "https://github.com/leandroroq/TS-SE-Tool/releases/latest";
 
         private static System.Timers.Timer aTimer;
         private static byte atimerCounter = 0;
