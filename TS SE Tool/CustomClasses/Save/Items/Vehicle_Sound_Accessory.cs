@@ -1,0 +1,105 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using TS_SE_Tool.Utilities;
+using TS_SE_Tool.Save.DataFormat;
+
+namespace TS_SE_Tool.Save.Items
+{
+    class Vehicle_Sound_Accessory : SiiNBlockCore
+    {
+        internal string data_path { get; set; } = "";
+        internal uint refund { get; set; } = 0;
+
+        internal Vehicle_Sound_Accessory()
+        { }
+
+        internal Vehicle_Sound_Accessory(string[] _input)
+        {
+            string tagLine = "", dataLine = "";
+
+            foreach (string currentLine in _input)
+            {
+                if (currentLine.Contains(':'))
+                {
+                    string[] splittedLine = currentLine.Split(new char[] { ':' }, 2);
+
+                    tagLine = splittedLine[0].Trim();
+                    dataLine = splittedLine[1].Trim();
+                }
+                else
+                {
+                    tagLine = currentLine.Trim();
+                    dataLine = "";
+                }
+
+                try
+                {
+                    switch (tagLine)
+                    {
+                        case "":
+                        case "vehicle_sound_accessory":
+                        case "}":
+                            {
+                                break;
+                            }
+
+                        case "data_path":
+                            {
+                                data_path = dataLine;
+                                break;
+                            }
+
+                        case "refund":
+                            {
+                                refund = uint.Parse(dataLine);
+                                break;
+                            }
+
+                        default:
+                            {
+                                UnidentifiedLines.Add(currentLine);
+                                IO_Utilities.ErrorLogWriter(WriteErrorMsg(tagLine, dataLine));
+                                break;
+                            }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    IO_Utilities.ErrorLogWriter(WriteErrorMsg(ex.Message, tagLine, dataLine));
+                    continue;
+                }
+            }
+        }
+
+        internal string PrintOut(uint _version, string _nameless)
+        {
+            string returnString = "";
+
+            StringBuilder returnSB = new StringBuilder();
+
+            returnSB.AppendLine("vehicle_sound_accessory : " + _nameless + " {");
+
+            returnSB.AppendLine(" data_path: " + data_path);
+            returnSB.AppendLine(" refund: " + refund.ToString());
+
+            returnSB.Append(WriteUnidentifiedLines());
+
+            returnSB.AppendLine("}");
+
+            returnString = returnSB.ToString();
+
+            this.removeWritenBlock(_nameless);
+
+            return returnString;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString().Split(new char[] { '.' })[3];
+        }
+    }
+}

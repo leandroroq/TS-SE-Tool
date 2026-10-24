@@ -1,0 +1,400 @@
+[ja-JP]
+buttonAccept;Accept
+buttonAddCustomPath;Add
+buttonAddUserColor;+ slot
+buttonApply;Apply
+buttonCancel;キャンセル
+buttonCargoMarketRandomizeCargoCity;ランダム生成
+buttonCargoMarketRandomizeCargoCompany;ランダム生成
+buttonCargoMarketResetCargoCity;リストのリセット
+buttonCargoMarketResetCargoCompany;リストのリセット
+buttonCheckUpdatesDownloadAndRepair;ダウンロードして修復
+buttonCheckUpdatesDownloadAndUpdate;ダウンロードして更新
+buttonChooseFolder;Choose folder
+buttonClearColor;クリア
+buttonCloneProfile;Clone profile
+buttonConvoyToolsGPSCurrentPositionCopy;Copy current position
+buttonConvoyToolsGPSCurrentPositionPaste;Paste current position
+buttonConvoyToolsGPSStoredGPSPathCopy;Copy GPS path
+buttonConvoyToolsGPSStoredGPSPathPaste;Paste GPS path
+buttonConvoyToolsGPSTruckPositionMultySaveCopy;Copy truck position from multiple saves
+buttonConvoyToolsGPSTruckPositionMultySavePaste;Create multiple saves with different truck positions
+buttonCopy;Copy
+buttonDBClear;クリア
+buttonDBExport;エクスポート
+buttonDBImport;インポート
+buttonEdit;Edit
+buttonEditCPlist;Edit list
+buttonExport;エクスポート
+buttonExportImport;Export
+buttonExportSettings;Export
+buttonFreightMarketAddJob;リストにジョブを追加
+buttonFreightMarketCancelJobEdit;Cancel
+buttonFreightMarketClearJobList;リストのクリア
+buttonFreightMarketEditJob;Edit Job
+buttonFreightMarketRandomizeCargo;ランダム
+buttonImport;インポート
+buttonImportSettings;Import
+buttonMainAddCustomFolder;読込フォルダの追加
+buttonMainCloseSave;Unload
+buttonMainDecryptSave;復号
+buttonMainGameSwitchATS;ATS
+buttonMainGameSwitchETS;ETS2
+buttonMainLoadSave;ロード
+buttonMainLoadSaveSteamCloud;Disable Steam Cloud
+buttonMainWriteSave;セーブ
+buttonMoveSaves;> > >
+buttonOK;OK
+buttonPaste;Paste
+buttonPlayerLevelMaximum;最大 >>
+buttonPlayerLevelMinimum;<< 最小
+buttonPrepareSaves;Prepare
+buttonProfilesAndSavesOpenSaveFolder;フォルダを開く
+buttonRenameProfile;Rename profile
+buttonReplaceColors;↑↑↑ 置き換え ↑↑↑
+buttonReset;Reset
+buttonRestoreProfileBackup;Restore profile Backup
+buttonSave;セーブ
+buttonSelectCustomThumbnail;Select images
+buttonSelectFile;Select file ...
+buttonShareTrailerTrailerDetailsCopy;Copy Trailer Details
+buttonShareTrailerTrailerDetailsPaste;Paste Trailer Details
+buttonShareTrailerTrailerPaintCopy;Copy Paint Settings
+buttonShareTrailerTrailerPaintPaste;Paste Paint Settings
+buttonShareTrailerWholeTrailerCopy;Copy All Trailer Settings
+buttonShareTrailerWholeTrailerPaste;Paste All Trailer Settings
+buttonShareTruckTruckDetailsCopy;トラックの設定をコピー
+buttonShareTruckTruckDetailsPaste;トラックの設定を張り付ける
+buttonShareTruckTruckPaintCopy;ペイントの設定をコピー
+buttonShareTruckTruckPaintPaste;ペイントの設定を張り付ける
+buttonShareTruckWholeTruckCopy;すべてのトラック設定をコピー
+buttonShareTruckWholeTruckPaste;すべてのトラック設定を張り付ける
+buttonShowTagHelpCollapse;Collapse help
+buttonShowTagHelpExpand;Expand help
+buttonSplashChecking;Checking for updates
+buttonSplashClose;Close
+buttonSplashOK;OK
+buttonUpdateCancel;Cancel
+buttonUpdateOK;OK
+buttonUserColorsShareColors;カラーの共有
+buttonUserCompanyCitiesSelectAll;Select All
+buttonUserCompanyCitiesUnSelectAll;Unselect All
+buttonUserCompanyCitiesUnVisit;未訪問
+buttonUserCompanyCitiesVisit;訪問済
+buttonUserCompanyDriversFire;Fire
+buttonUserCompanyDriversHire;Hire
+buttonUserCompanyDriversSelectAll;Select All
+buttonUserCompanyDriversUnSelectAll;Unselect All
+buttonUserCompanyGaragesBuy;購入
+buttonUserCompanyGaragesBuyDowngrade;ダウングレード
+buttonUserCompanyGaragesBuyUpgrade;購入してアップグレード
+buttonUserCompanyGaragesManage;Manage
+buttonUserCompanyGaragesSelectAll;Select All
+buttonUserCompanyGaragesSell;売却
+buttonUserCompanyGaragesUnSelectAll;Unselect All
+buttonUserCompanyGaragesUpgrade;アップグレード
+buttonUserTrailerSelectCurrent;使用中のトレーラー
+buttonUserTrailerSwitchCurrent;このトレーラーを使用する
+buttonUserTruckSelectCurrent;乗車中の車両
+buttonUserTruckSwitchCurrent;このトラックを乗車中にする
+checkBoxCreateBackup;Make backup .zip file
+checkBoxCustomThumbnail;Add custom Thumbnails
+checkBoxFreightMarketFilterDestination;フィルター
+checkBoxFreightMarketFilterSource;フィルター
+checkBoxFreightMarketRandomDest;ランダム
+checkBoxFullCloning;Full save cloning
+checkBoxMutiCloning;Multiple clones
+checkBoxProfilesAndSavesProfileBackups;バックアップ
+checkGitHubRelesesToolStripMenuItem;Check GitHub Releases
+checkSCSForumToolStripMenuItem;Check SCS Forum
+checkTMPForumToolStripMenuItem;Check TMP Forum
+contextMenuStripCompanyDriversEdit;Edit
+contextMenuStripCompanyDriversFire;Fire
+contextMenuStripCompanyDriversHire;Hire
+contextMenuStripFreightMarketJobListDelete;Delete
+contextMenuStripFreightMarketJobListEdit;Edit
+Del;Delete
+dialogCaptionNoBackwardCompatibility;旧バージョンとの互換性なし
+dialogCaptionUnsupportedVersion;未検証のセーブデータ バージョン
+dialogTextNoBackwardCompatibility;セーブデータのバージョン {0} は古すぎます。\r\nこのプログラムのバージョンでは使用できません。\r\n（セーブデータを復号して、いつでも手動で編集できます）
+dialogTextUnsupportedVersion;セーブデータのバージョン {0} は未検証です。\r\n続行できますが、保存後にセーブデータが破損する可能性があります。\r\nこの場合、自動セーブではなく手動セーブを使用してください。\r\n\r\nこのセーブデータを読み込みますか？
+error_could_not_complete_jobs_loop;仕事のループ設定に失敗しました
+error_could_not_decode_file;ファイルの複合化に失敗しました
+error_could_not_find_file;ファイルが見つかりません
+error_could_not_write_to_file;書き込みに失敗しました
+error_during_importing_db;データベースへのインポート中にエラー
+error_exception;プログラムで例外エラーが発生
+error_file_not_decoded;ファイルが復号化されていません
+error_file_was_modified;セーブファイルはゲームによって変更されました
+error_job_parameters_not_filled;すべてのｼﾞｮﾌﾞﾃﾞｰﾀが入力されるわけではありません
+error_save_version_not_detected;ファイルにバージョン情報がありませんでした
+error_sql_exception;データベースで例外エラーが発生
+FormAboutBox;About {0}
+FormAddCustomFolder;Edit Custom folders
+FormAIDriverEditor;Driver editor
+FormColorPicker;Colour picker
+FormConvoyControlPositions;Convoy Control Positions
+FormConvoyControlPositionsExporting;Exporting CC positions
+FormConvoyControlPositionsImporting;Importing CC positions
+FormGaragesSoldContent;Garage items
+FormLicensePlateEdit;License Plate Editor
+FormProfileEditor;Profile manager
+FormProfileEditorRenameCloneCloning;Cloning
+FormProfileEditorRenameCloneRenaming;Renaming
+FormProfileEditorSettingsImportExportExporting;Exporting from {0}
+FormProfileEditorSettingsImportExportImporting;Importing to {0}
+FormProgramSettings;Program Settings
+FormSettings;設定
+FormShareUserColors;ｶﾗｰﾊﾟﾚｯﾄの共有
+FormVehicleEditor;Vehicle Editor
+groupBoxDataBase;データベース
+groupBoxDriverSkill;Skills
+groupBoxFolderType;Folder type
+groupBoxGameType;Game
+groupBoxImportedColors;カラーのインポート
+groupBoxItemsToSort;Items to sort
+groupBoxMainProfilesAndSaves;プロフィールとセーブ
+groupBoxOptions;Options
+groupBoxProfilePlayerLevel;プレイヤーのレベル
+groupBoxProfileSkill;スキル
+groupBoxProfileUserColors;設定したｶﾗｰﾊﾟﾚｯﾄ
+groupBoxProfileUserColorsShort;User colors
+groupBoxSavedItems;Saved items
+groupBoxSelectFileExporting;Pack into .zip file
+groupBoxSelectFileImporting;Form .zip file
+groupBoxTargetProfileExporting;Put into ...
+groupBoxTargetProfileImporting;Grab from ...
+groupBoxUserTrailerShareTrailerSettings;トレーラー設定の共有
+groupBoxUserTrailerTrailer;トレーラー
+groupBoxUserTrailerTrailerDetails;詳細
+groupBoxUserTruckShareTruckSettings;トラック設定の共有
+groupBoxUserTruckTruck;トラック
+groupBoxUserTruckTruckDetails;詳細
+Kilometers;キロメートル
+labelCargoMarketCity;都市
+labelCargoMarketCompany;会社
+labelCargoMarketSource;ソース
+labelCharCountLimit;[0/0]
+labelCheckUpdatesOnStartup;Check updates on startup
+labelCity;都市
+labelCMTrailerType;Trailer Type
+labelCountry;Country
+labelCurrency;通貨
+labelCustomPathDir;Choose folder...
+labelDayShort;日
+labelDistance;距離
+labelDownloadButton;Download
+labelDownloadDescription;You can download latest version from
+labelDriverName;Driver name:
+labelDriverNameValue;name
+labelExistingSaves;Existing saves
+labelExportImport;Exporting
+labelFreightMarketCargo;貨物
+labelFreightMarketCity;都市
+labelFreightMarketCompany;会社
+labelFreightMarketCompanyF;会社
+labelFreightMarketCountryF;国
+labelFreightMarketDestination;目的地
+labelFreightMarketDistance;総走行距離:
+labelFreightMarketFilterMain;フィルター
+labelFreightMarketSource;出発地
+labelFreightMarketTrailer;Trailer
+labelFreightMarketUrgency;緊急度
+labelHelpText;[ Help ? ]
+labelHourShort;時間
+labelHowtoDescription;How to use it
+labelJobPickupTime;貨物の配達期限
+labelLicensePlate;License plate
+labelLicensePlateTagsDescription;Description
+labelLicensePlateTagsHelp;Tags
+labelLoopEvery;経由地
+labelnew;新しい
+labelNewJobDistance; - 
+labelNewName;New Name
+labelNewNameCloning;Name(s) for cloned profile(s):
+labelNewNameRenaming;New profile name:
+labelNewVersionStatus;VersionCheck
+labelold;古い
+labelOr;or
+labelProfileName;Profile name:
+labelProfileNameExport;Export
+labelProfileNameImport;Import
+labelProfileNameValueName;Name
+labelProfileSkill0;ADR
+labelProfileSkill1;長距離
+labelProfileSkill2;高額貨物
+labelProfileSkill3;精密貨物
+labelProfileSkill4;ジャストインタイム
+labelProfileSkill5;エコドライブ
+labelSavedDrivers;Drivers
+labelSavedDriversFormat;Drivers [ {0} | {1} ]
+labelSavedTrucks;Trucks
+labelSavedTrucksFormat;Trucks [ {0} | {1} ]
+labelSettings;Settings
+labelSettingsStatusInitializing;Initializing...
+labelSettingsStatusNotReady;Not Ready
+labelShowSplashOnStartup;Show splash screen on startup
+labelSortingDrivers;Drivers
+labelSortingDriversFormat;Drivers {0}
+labelSortingTrucks;Trucks
+labelSortingTrucksFormat;Trucks {0}
+labelSplashCannotCheck;Cannot check for updates!
+labelSplashChecking;Checking 
+labelSplashHelloDeveloper;Hello developer =)
+labelSplashLatestRepair;You are using the latest version!\r\n(Repair)
+labelSplashMissingFiles;Your version is missing important files!\r\nGetting a link 
+labelSplashMissingFilesRepair;Your version is missing important files!\r\n(Repair)
+labelSplashNewVersionAvailable;New version {0} available!\r\n(Download)
+labelSplashRestoreFiles;Getting a link to restore important files
+labelSplashUpdateFailed;Something went wrong. Please use links below for manual update.
+labelSupportDeveloper;Help developer
+labelSupportedGameVersions;Supported game versions
+labelTagHelpCollapse;Collapse help
+labelTagHelpExpand;Expand help
+labelThumbnailDescription;Image size needs to be at least 64 x 64 pixels
+labelTrailerPartNameBody;荷台
+labelTrailerPartNameCargo;貨物
+labelTrailerPartNameChassis;シャーシ
+labelTrailerPartNameWheels;ホイール
+labelTruckDetailsFuel;燃料
+labelTruckPartNameCabin;キャビン
+labelTruckPartNameChassis;シャーシ
+labelTruckPartNameEngine;エンジン
+labelTruckPartNameTransmission;トランスミッション
+labelTruckPartNameWheels;ホイール
+labelUpdateCannotCheck;更新を確認できません。
+labelUpdateChecking;更新を確認しています
+labelUpdateCheckingFile;ファイルを確認しています…
+labelUpdateDownloaded;ダウンロード完了
+labelUpdateDownloading;ダウンロード中…
+labelUpdateHashMismatch;ハッシュが一致しません
+labelUpdateHelloDeveloper;開発者向けメッセージ
+labelUpdateLatest;最新バージョンを使用しています
+labelUpdateNewVersion;新しいバージョン {0} を利用できます
+labelUpdateNewVersionAvailable;新しいバージョン {0} を利用できます。\r\n更新するには「ダウンロード」をクリックしてください。
+labelUpdateNewVersionAvailablePrompt;新しいバージョン {0} を利用できます。\r\n更新するには「ダウンロード」をクリックしてください。
+labelUpdateReady;更新の準備ができました
+labelUpdateScheduledExit;作業を続けてください。\r\n終了時に更新を開始します。
+labelUpdateStartingUpdater;アップデーターを起動しています
+labelUpdateUpdaterMissing;Updater.exe が見つかりません
+labelUserCompanyCompanyName;会社名
+labelUserCompanyDrivers;Drivers
+labelUserCompanyGarages;ガレージ
+labelUserCompanyHQcity;本社の所在地
+labelUserCompanyMoneyAccount;所持金
+labelUserCompanyVisitedCities;訪れた都市
+labelUserTrailerLicensePlate;ナンバープレート
+labelUserTruckLicensePlate;ナンバープレート
+labelVersion;Version {0} (alpha)
+labelWeight;Weight
+labelWorkInProgress;Work In Progress
+Large;大規模
+linkLabelForumSCS;SCS Forum
+linkLabelForumTMP;TruckersMP Forum
+linkLabelLocalPDF;Local PDF
+message_database_created;データベース構成が作成されました.
+message_database_missing_creating_db;データベースがありません　データベースを作成します...
+message_database_missing_creating_db_structure;データベース構成がありません　データベースを作成します...
+message_decoding_save_file;セーブファイルの複合中...
+message_exporting_database;データベースのエクスポート中...
+message_file_saved;ファイルの保存が完了.
+message_importing_database;データベースのインポート中...
+message_loading_save_file;セーブデータのロード中...
+message_no_matching_cities;フィルターに一致する都市がありません.
+message_operation_finished;完了しました.
+message_preparing_data;準備中...
+message_saving_file;セーブ中...
+Miles;マイル
+Not owned;未訪問
+panelShareColorsHelpDragDrop;Use [Drag & Drop] to move imported colors [One by one] or as a [Group] into the palette.
+radioButtonMove;Move
+radioButtonNamesCustom;Custom names
+radioButtonNamesNone;Don't include names
+radioButtonNamesOriginal;Original names
+radioButtonProfileFolderType;Profile folder
+radioButtonRootFolderType;Root folder
+radioButtonSaveFolderType;Save folder
+radioButtonSelect;Select
+radioButtonUnknownFolderType;Unknown
+Small;小規模
+stringAxlesCount;Axles - {0}
+stringBodyType;{0}
+stringCargoContainer;(Container)
+stringChainType;{0}
+stringDriverShort;D
+stringFormAboutBoxtextBoxDescription;This program created by\r\nLIPtoH <{0}>\r\n{1}\r\n\r\nTools and projects used to create this tool:\r\n\r\n
+stringInUse;In use
+stringItemMissing;-- NONE --
+stringKilograms;Kilograms
+stringKilometers;Kilometers
+stringKilometersShort;km
+stringLarge;Large
+stringMiles;Miles
+stringMilesShort;mi
+stringNot owned;Not owned
+stringPounds;Pounds
+stringQuickJobTruckShort;Q
+stringSmall;Small
+stringTiny;Tiny
+stringTrailerShort;T
+stringUsersTruckShort;U
+stringVehicleShort;V
+tabPageCargoMarket;ｶｰｺﾞﾏｰｹｯﾄ
+tabPageCompany;会社
+tabPageConvoyTools;ｺﾝﾎﾞｲﾂｰﾙ
+tabPageDrivers;Drivers
+tabPageFreightMarket;ﾌﾚｲﾄﾏｰｹｯﾄ
+tabPageGarages;Garages
+tabPageProfile;ﾌﾟﾛﾌｨｰﾙ
+tabPageTrailer;トレーラー
+tabPageTruck;トラック
+tabPageVisitedCities;Visited cities
+Tiny;極小
+toolStripMenuItemAbout;About
+toolStripMenuItemCheckUpdates;Check for updates
+toolStripMenuItemCreateTrFile;Make translation
+toolStripMenuItemDownload;ダウンロード
+toolStripMenuItemExit;Exit
+toolStripMenuItemHelp;ヘルプ
+toolStripMenuItemLanguage;言語
+toolStripMenuItemLocalPDF;Local PDF file
+toolStripMenuItemProgram;プログラム
+toolStripMenuItemProgramSettings;Program settings
+toolStripMenuItemSettings;設定
+toolStripMenuItemTutorial;How to use it
+toolStripMenuItemYouTubeVideo;YouTube Video
+tooltipbuttonADR0;爆発物
+tooltipbuttonADR1;ガス
+tooltipbuttonADR2;可燃性液体
+tooltipbuttonADR3;可燃性固体
+tooltipbuttonADR4;毒性および感染性物質
+tooltipbuttonADR5;腐食性物質
+tooltipbuttonPlayerLevelMaximum;150 level
+tooltipbuttonPlayerLevelMinimum;0 level
+tooltipbuttonProfilesAndSavesEditProfile;Profile manager
+tooltipbuttonProfilesAndSavesRefreshAll;リフレッシュ
+tooltipbuttonProfilesAndSavesRestoreBackup;Restore from Backup
+tooltipbuttonSkill;{0} level
+tooltipbuttonTrailerElRepair;Repair this part
+tooltipbuttonTrailerLicensePlateEdit;Edit License plate
+tooltipbuttonTrailerRepair;Repair whole trailer
+tooltipbuttonTruckElRepair;Repair this part
+tooltipbuttonTruckLicensePlateEdit;Edit License plate
+tooltipbuttonTruckReFuel;Refuel truck
+tooltipbuttonTruckRepair;Repair whole truck
+tooltipbuttonUserCompanyGaragesManage;Manage
+tooltipcomboBoxPrevProfiles;[L] - Local saves\r\n[S] - Steam (only load)\r\n[C] - Custom
+tooltiplabelJobPickupTime;How much time till cargo will disapeare from market\r\n(adds for every cargo)
+tooltipprofileSkillsPanel0;ADR
+tooltipprofileSkillsPanel1;長距離輸送
+tooltipprofileSkillsPanel2;高価値貨物
+tooltipprofileSkillsPanel3;壊れやすい貨物
+tooltipprofileSkillsPanel4;時間厳守配送
+tooltipprofileSkillsPanel5;エコドライブ
+messageBoxApplicationErrorPrefix;アプリケーションでエラーが発生しました。開発者への連絡先: 
+messageBoxApplicationErrorSuffix;詳細は errorlog.log を確認してください。
+messageBoxWindowsFormsError;Windows Forms エラー
+messageBoxNonUiError;非 UI エラー
+messageBoxFatalWindowsFormsError;Windows Forms の致命的なエラー
+messageBoxFatalNonUiError;致命的な非 UI エラー
+messageBoxFatalNonUiReasonPrefix;致命的な非 UI エラー。イベントログに書き込めませんでした。\r\n理由: 

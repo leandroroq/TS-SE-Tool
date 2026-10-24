@@ -1,0 +1,400 @@
+[it-IT]
+buttonAccept;Accetta
+buttonAddCustomPath;Aggiungi
+buttonAddUserColor;+ slot
+buttonApply;Applica
+buttonCancel;Annulla
+buttonCargoMarketRandomizeCargoCity;Elenco casuale dei carichi
+buttonCargoMarketRandomizeCargoCompany;Elenco casuale dei carichi
+buttonCargoMarketResetCargoCity;Resetta elenco trasporti
+buttonCargoMarketResetCargoCompany;Resetta elenco compagnie di trasporto
+buttonCheckUpdatesDownloadAndRepair;Scarica e ripara
+buttonCheckUpdatesDownloadAndUpdate;Scarica e aggiorna
+buttonChooseFolder;Scegli cartella
+buttonClearColor;Cancella colore
+buttonCloneProfile;Clona profilo
+buttonConvoyToolsGPSCurrentPositionCopy;Copia posizione attuale
+buttonConvoyToolsGPSCurrentPositionPaste;Incolla posizione attuale
+buttonConvoyToolsGPSStoredGPSPathCopy;Copia percorso GPS
+buttonConvoyToolsGPSStoredGPSPathPaste;Incolla percorso GPS
+buttonConvoyToolsGPSTruckPositionMultySaveCopy;Copia posizione camion da piu' salvataggi
+buttonConvoyToolsGPSTruckPositionMultySavePaste;Crea piu' salvataggi da con differenti posizioni del camion
+buttonCopy;Copia
+buttonDBClear;Pulisci
+buttonDBExport;Esporta
+buttonDBImport;Importa
+buttonEdit;Modifica
+buttonEditCPlist;Modifica elenco
+buttonExport;Esporta
+buttonExportImport;Esporta
+buttonExportSettings;Esporta
+buttonFreightMarketAddJob;Aggiungi lavoro all'elenco
+buttonFreightMarketCancelJobEdit;Annulla
+buttonFreightMarketClearJobList;Pulisci elenco
+buttonFreightMarketEditJob;Modifica lavoro
+buttonFreightMarketRandomizeCargo;Casuale
+buttonImport;Importa
+buttonImportSettings;Importa
+buttonMainAddCustomFolder;Aggiungi cartella personalizzata
+buttonMainCloseSave;Chiudi salvataggio
+buttonMainDecryptSave;Decripta
+buttonMainGameSwitchATS;ATS
+buttonMainGameSwitchETS;ETS2
+buttonMainLoadSave;Carica
+buttonMainLoadSaveSteamCloud;Disattiva Steam Cloud
+buttonMainWriteSave;Salva
+buttonMoveSaves;> > >
+buttonOK;OK
+buttonPaste;Incolla
+buttonPlayerLevelMaximum;MAX >>
+buttonPlayerLevelMinimum;<< MIN
+buttonPrepareSaves;Prepara
+buttonProfilesAndSavesOpenSaveFolder;Apri cartella
+buttonRenameProfile;Rinomina profilo
+buttonReplaceColors;↑↑↑ Sostituisci ↑↑↑
+buttonReset;Ripristina
+buttonRestoreProfileBackup;Ripristina profilo Backup
+buttonSave;Salva
+buttonSelectCustomThumbnail;Seleziona immagini
+buttonSelectFile;Seleziona file ...
+buttonShareTrailerTrailerDetailsCopy;Copia dettagli rimorchio
+buttonShareTrailerTrailerDetailsPaste;Incolla dettagli rimorchio
+buttonShareTrailerTrailerPaintCopy;Copia impostazioni vernice
+buttonShareTrailerTrailerPaintPaste;Incolla impostazioni vernice
+buttonShareTrailerWholeTrailerCopy;Copia tutte le impostazioni rimorchio
+buttonShareTrailerWholeTrailerPaste;Incolla tutte le impostazioni rimorchio
+buttonShareTruckTruckDetailsCopy;Copia impostazioni camion
+buttonShareTruckTruckDetailsPaste;Incolla impostazioni camion
+buttonShareTruckTruckPaintCopy;Copia impostazioni verniciatura
+buttonShareTruckTruckPaintPaste;Incolla impostazioni verniciatura
+buttonShareTruckWholeTruckCopy;Copia tutte le impostazioni del camion
+buttonShareTruckWholeTruckPaste;Incolla tutte le impostazioni del camion
+buttonShowTagHelpCollapse;Comprimi aiuto
+buttonShowTagHelpExpand;Espandi aiuto
+buttonSplashChecking;Controllo aggiornamenti
+buttonSplashClose;Chiudi
+buttonSplashOK;OK
+buttonUpdateCancel;Annulla
+buttonUpdateOK;OK
+buttonUserColorsShareColors;Condividi colori
+buttonUserCompanyCitiesSelectAll;Seleziona tutto
+buttonUserCompanyCitiesUnSelectAll;Deseleziona tutto
+buttonUserCompanyCitiesUnVisit;Annulla visita
+buttonUserCompanyCitiesVisit;Visita
+buttonUserCompanyDriversFire;Licenzia autista
+buttonUserCompanyDriversHire;Assumi autista
+buttonUserCompanyDriversSelectAll;Seleziona tutto
+buttonUserCompanyDriversUnSelectAll;Deseleziona tutto
+buttonUserCompanyGaragesBuy;Acquista
+buttonUserCompanyGaragesBuyDowngrade;Declassa
+buttonUserCompanyGaragesBuyUpgrade;Acquista e aggiorna
+buttonUserCompanyGaragesManage;Gestisci
+buttonUserCompanyGaragesSelectAll;Seleziona tutto
+buttonUserCompanyGaragesSell;Vendi
+buttonUserCompanyGaragesUnSelectAll;Deseleziona tutto
+buttonUserCompanyGaragesUpgrade;Migliora
+buttonUserTrailerSelectCurrent;Seleziona rimorchio attuale
+buttonUserTrailerSwitchCurrent;Imposta come rimorchio attuale
+buttonUserTruckSelectCurrent;Attuale
+buttonUserTruckSwitchCurrent;Sostituisci camion attuale con questo
+checkBoxCreateBackup;Crea backup ZIP
+checkBoxCustomThumbnail;Aggiungi miniature personalizzate
+checkBoxFreightMarketFilterDestination;Filtra
+checkBoxFreightMarketFilterSource;Filtra
+checkBoxFreightMarketRandomDest;Destinazione casuale
+checkBoxFullCloning;Clonazione salvataggio completo
+checkBoxMutiCloning;Più cloni
+checkBoxProfilesAndSavesProfileBackups;Backup
+checkGitHubRelesesToolStripMenuItem;Check GitHub Releases
+checkSCSForumToolStripMenuItem;Check SCS Forum
+checkTMPForumToolStripMenuItem;Check TMP Forum
+contextMenuStripCompanyDriversEdit;Modifica
+contextMenuStripCompanyDriversFire;Incendio
+contextMenuStripCompanyDriversHire;Assunzione
+contextMenuStripFreightMarketJobListDelete;Elimina
+contextMenuStripFreightMarketJobListEdit;Modifica
+Del;Delete
+dialogCaptionNoBackwardCompatibility;Nessuna compatibilità con le versioni precedenti
+dialogCaptionUnsupportedVersion;Versione del salvataggio non testata
+dialogTextNoBackwardCompatibility;La versione del salvataggio {0} è TROPPO VECCHIA.\r\nQuesta versione del programma non può utilizzarla.\r\n(Puoi decrittografare il salvataggio e modificarlo manualmente in qualsiasi momento)
+dialogTextUnsupportedVersion;La versione del salvataggio {0} NON È STATA TESTATA.\r\nPuoi continuare, ma il salvataggio potrebbe DANNEGGIARSI DOPO IL SALVATAGGIO.\r\nIn questo caso, usa salvataggi manuali anziché automatici.\r\n\r\nVuoi provare a CARICARE questo salvataggio?
+error_could_not_complete_jobs_loop;Impossibile completare il ciclo dei lavori
+error_could_not_decode_file;Impossibile decodificare il file
+error_could_not_find_file;Impossibile trovare il file
+error_could_not_write_to_file;Impossibile scrivere il file
+error_during_importing_db;Errore durante l'importazione dell'archivio
+error_exception;Eccezione del programma
+error_file_not_decoded;File non decodificato
+error_file_was_modified;Il file è stato modificato dal gioco
+error_job_parameters_not_filled;Non tutti i parametri del lavoro sono riempiti
+error_save_version_not_detected;Versione del file di salvataggio non rilevata
+error_sql_exception;Errore del database
+FormAboutBox;Riguardo {0}
+FormAddCustomFolder;Modifica cartelle personali
+FormAIDriverEditor;Editor del conducente
+FormColorPicker;Cattura colore
+FormConvoyControlPositions;Posizioni di controllo del convoglio
+FormConvoyControlPositionsExporting;Esportazione delle posizioni del controllore di bordo
+FormConvoyControlPositionsImporting;Importazione posizioni CC
+FormGaragesSoldContent;Articoli garage
+FormLicensePlateEdit;Editor targhe
+FormProfileEditor;Gestione profili
+FormProfileEditorRenameCloneCloning;Clonazione
+FormProfileEditorRenameCloneRenaming;Ridenominazione
+FormProfileEditorSettingsImportExportExporting;Esportazione da {0}
+FormProfileEditorSettingsImportExportImporting;Importazione in {0}
+FormProgramSettings;Impostazioni del programma
+FormSettings;Impostazioni
+FormShareUserColors;Condividi colori utente
+FormVehicleEditor;Editor del veicolo
+groupBoxDataBase;Archivio
+groupBoxDriverSkill;Abilità
+groupBoxFolderType;Tipo cartella
+groupBoxGameType;Gioco
+groupBoxImportedColors;Colori importati
+groupBoxItemsToSort;Elementi da ordinare
+groupBoxMainProfilesAndSaves;Profili e salvataggi
+groupBoxOptions;Opzioni
+groupBoxProfilePlayerLevel;Livello giocatore
+groupBoxProfileSkill;Abilità
+groupBoxProfileUserColors;Colori utente
+groupBoxProfileUserColorsShort;Colori utente
+groupBoxSavedItems;Elementi salvati
+groupBoxSelectFileExporting;Comprimi in file .zip
+groupBoxSelectFileImporting;File ZIP
+groupBoxTargetProfileExporting;Salva in...
+groupBoxTargetProfileImporting;Importa da...
+groupBoxUserTrailerShareTrailerSettings;Condividi impostazioni rimorchio
+groupBoxUserTrailerTrailer;Rimorchio
+groupBoxUserTrailerTrailerDetails;Dettagli
+groupBoxUserTruckShareTruckSettings;COndividi impostazioni camion
+groupBoxUserTruckTruck;Camion
+groupBoxUserTruckTruckDetails;Dettagli
+Kilometers;Chilometri
+labelCargoMarketCity;Citta'
+labelCargoMarketCompany;Compagnia
+labelCargoMarketSource;Origine
+labelCharCountLimit;[0/0]
+labelCheckUpdatesOnStartup;Controlla gli aggiornamenti all'avvio
+labelCity;Citta'
+labelCMTrailerType;Tipo di rimorchio
+labelCountry;Paese
+labelCurrency;Moneta
+labelCustomPathDir;Scegli la cartella...
+labelDayShort;D
+labelDistance;Distanza
+labelDownloadButton;Scarica
+labelDownloadDescription;Puoi scaricare l'ultima versione da
+labelDriverName;Nome autista:
+labelDriverNameValue;nome
+labelExistingSaves;Salvataggi esistenti
+labelExportImport;Esporta
+labelFreightMarketCargo;Carico
+labelFreightMarketCity;Citta'
+labelFreightMarketCompany;Compagnia
+labelFreightMarketCompanyF;Compagnia
+labelFreightMarketCountryF;Paese
+labelFreightMarketDestination;Destinazione
+labelFreightMarketDistance;Lunghezza totale percorso:
+labelFreightMarketFilterMain;Filtra
+labelFreightMarketSource;Origine
+labelFreightMarketTrailer;Rimorchio
+labelFreightMarketUrgency;Urgencza
+labelHelpText;[ Aiuto ? ]
+labelHourShort;h
+labelHowtoDescription;Come fare
+labelJobPickupTime;Tempo rilevanza carico
+labelLicensePlate;Targa
+labelLicensePlateTagsDescription;Descrizione
+labelLicensePlateTagsHelp;Tag
+labelLoopEvery;Cicla ogni
+labelnew;nuovo
+labelNewJobDistance; - 
+labelNewName;Nuovo nome
+labelNewNameCloning;Nome/i per profilo/i clonato/i:
+labelNewNameRenaming;Nuovo nome profilo:
+labelNewVersionStatus;Controllo versione
+labelold;vecchio
+labelor;o
+labelProfileName;Nome profilo:
+labelProfileNameExport;Esporta
+labelProfileNameImport;Importa
+labelProfileNameValueName;Nome
+labelProfileSkill0;ADR
+labelProfileSkill1;Lunghezza distanza
+labelProfileSkill2;Valore massimo del carico
+labelProfileSkill3;Fragilita' carico
+labelProfileSkill4;Consegna in tempo
+labelProfileSkill5;Guida economica
+labelSavedDrivers;Driver
+labelSavedDriversFormat;Autisti [ {0} | {1} ]
+labelSavedTrucks;Camion
+labelSavedTrucksFormat;Camion [ {0} | {1} ]
+labelSettings;Impostazioni
+labelSettingsStatusInitializing;Inizializzazione...
+labelSettingsStatusNotReady;Non pronto
+labelShowSplashOnStartup;Mostra schermata iniziale all'avvio
+labelSortingDrivers;Driver
+labelSortingDriversFormat;Driver {0}
+labelSortingTrucks;Camion
+labelSortingTrucksFormat;Camion {0}
+labelSplashCannotCheck;Impossibile cercare aggiornamenti
+labelSplashChecking;Ricerca in corso 
+labelSplashHelloDeveloper;Ciao, sviluppatore =)
+labelSplashLatestRepair;Stai usando la versione più recente!\r\n(Ripara)
+labelSplashMissingFiles;Mancano file importanti!\r\nRecupero del collegamento 
+labelSplashMissingFilesRepair;Mancano file importanti!\r\n(Ripara)
+labelSplashNewVersionAvailable;Nuova versione {0} disponibile!\r\n(Scarica)
+labelSplashRestoreFiles;Recupero del collegamento per ripristinare i file importanti
+labelSplashUpdateFailed;Si è verificato un errore. Usa i collegamenti qui sotto per aggiornare manualmente.
+labelSupportDeveloper;Sostieni lo sviluppatore
+labelSupportedGameVersions;Versioni del gioco supportate
+labelTagHelpCollapse;Nascondi guida
+labelTagHelpExpand;Mostra guida
+labelThumbnailDescription;Immagine: minimo 64 x 64 pixel
+labelTrailerPartNameBody;Carrozzeria
+labelTrailerPartNameCargo;Carico
+labelTrailerPartNameChassis;Telaio
+labelTrailerPartNameWheels;Ruote
+labelTruckDetailsFuel;Carburante
+labelTruckPartNameCabin;Cabina
+labelTruckPartNameChassis;Telaio
+labelTruckPartNameEngine;Motore
+labelTruckPartNameTransmission;Trasmissione
+labelTruckPartNameWheels;Ruote
+labelUpdateCannotCheck;Impossibile cercare aggiornamenti
+labelUpdateChecking;Ricerca aggiornamenti
+labelUpdateCheckingFile;Verifica file...
+labelUpdateDownloaded;Scaricato!
+labelUpdateDownloading;Download in corso...
+labelUpdateHashMismatch;Hash non corrispondente!
+labelUpdateHelloDeveloper;Ciao, sviluppatore =)
+labelUpdateLatest;Stai usando la versione più recente!
+labelUpdateNewVersion;Nuova versione {0} disponibile!
+labelUpdateNewVersionAvailable;Nuova versione {0} disponibile!\r\nFai clic su Scarica per aggiornare.
+labelUpdateNewVersionAvailablePrompt;Nuova versione {0} disponibile!\r\nFai clic su Scarica per aggiornare.
+labelUpdateReady;Pronto per aggiornare.
+labelUpdateScheduledExit;Puoi terminare il lavoro.\r\nL aggiornamento parte alla chiusura.
+labelUpdateStartingUpdater;Avvio aggiornamento
+labelUpdateUpdaterMissing;Updater.exe non esiste
+labelUserCompanyCompanyName;Nome Compagnia
+labelUserCompanyDrivers;Autisti
+labelUserCompanyGarages;Garage
+labelUserCompanyHQcity;Citta' HQ
+labelUserCompanyMoneyAccount;Quantità denaro
+labelUserCompanyVisitedCities;Citta' visitate
+labelUserTrailerLicensePlate;Targa
+labelUserTruckLicensePlate;Targa
+labelVersion;Versione {0} (alfa)
+labelWeight;Peso
+labelWorkInProgress;In lavorazione
+Large;Grande
+linkLabelForumSCS;SCS Forum
+linkLabelForumTMP;TruckersMP Forum
+linkLabelLocalPDF;Local PDF
+message_database_created;Struttura archivio creata.
+message_database_missing_creating_db;File archivo mancante. Creando l'archivio...
+message_database_missing_creating_db_structure;File archivo mancante. Creando la struttura dell'archivio...
+message_decoding_save_file;Decodificando file salvataggio...
+message_exporting_database;Esportando l'archivio...
+message_file_saved;File salvato.
+message_importing_database;Importando l'archivio...
+message_loading_save_file;Caricando file salvataggio...
+message_no_matching_cities;Nessuna citta' corrisponde ai criteri del filtro.
+message_operation_finished;Lavoro completo.
+message_preparing_data;Preparando i dati...
+message_saving_file;Salvando il file...
+Miles;Miglia
+Not owned;Non posseduti
+panelShareColorsHelpDragDrop;Use [Drag & Drop] to move imported colors [One by one] or as a [Group] into the palette.
+radioButtonMove;Sposta
+radioButtonNamesCustom;Nomi personalizzati
+radioButtonNamesNone;Don' t include names
+radioButtonNamesOriginal;Nomi originali
+radioButtonProfileFolderType;Cartella profili
+radioButtonRootFolderType;Cartella principale
+radioButtonSaveFolderType;Cartella salvataggi
+radioButtonSelect;Seleziona
+radioButtonUnknownFolderType;Sconosciuto
+Small;Piccolo
+stringAxlesCount;Axles - {0}
+stringBodyType;{0}
+stringCargoContainer;(Container)
+stringChainType;{0}
+stringDriverShort;D
+stringFormAboutBoxtextBoxDescription;This program created by\r\nLIPtoH <{0}>\r\n{1}\r\n\r\nTools and projects used to create this tool:\r\n\r\n
+stringInUse;In use
+stringItemMissing;-- NONE --
+stringKilograms;Kilograms
+stringKilometers;Kilometers
+stringKilometersShort;km
+stringLarge;Large
+stringMiles;Miles
+stringMilesShort;mi
+stringNot owned;Not owned
+stringPounds;Pounds
+stringQuickJobTruckShort;Q
+stringSmall;Small
+stringTiny;Tiny
+stringTrailerShort;T
+stringUsersTruckShort;U
+stringVehicleShort;V
+tabPageCargoMarket;Negozio carichi
+tabPageCompany;Azienda
+tabPageConvoyTools;Strumenti convogli
+tabPageDrivers;Driver
+tabPageFreightMarket;Negozio merci
+tabPageGarages;Garage
+tabPageProfile;Profilo
+tabPageTrailer;Rimorchio
+tabPageTruck;Camion
+tabPageVisitedCities;Città visitate
+Tiny;Minuscolo
+toolStripMenuItemAbout;Riguardo
+toolStripMenuItemCheckUpdates;Controlla gli aggiornamenti
+toolStripMenuItemCreateTrFile;Traduci
+toolStripMenuItemDownload;Scarica
+toolStripMenuItemExit;Esci
+toolStripMenuItemHelp;Aiuto
+toolStripMenuItemLanguage;Lingua
+toolStripMenuItemLocalPDF;File PDF locale
+toolStripMenuItemProgram;Programma
+toolStripMenuItemProgramSettings;Impostazioni del programma
+toolStripMenuItemSettings;Impostazioni
+toolStripMenuItemTutorial;Come usarlo
+toolStripMenuItemYouTubeVideo;Video di YouTube
+tooltipbuttonADR0;Esplosivi
+tooltipbuttonADR1;Gas
+tooltipbuttonADR2;Liquidi infiammabili
+tooltipbuttonADR3;Solidi infiammabili
+tooltipbuttonADR4;Sostanze tossiche e infettive
+tooltipbuttonADR5;Sostanze corrosive
+tooltipbuttonPlayerLevelMaximum;Livello 150
+tooltipbuttonPlayerLevelMinimum;Livello 0
+tooltipbuttonProfilesAndSavesEditProfile;Gestione profili
+tooltipbuttonProfilesAndSavesRefreshAll;Ricarica
+tooltipbuttonProfilesAndSavesRestoreBackup;Ripristina backup
+tooltipbuttonSkill;Livello {0}
+tooltipbuttonTrailerElRepair;Repair this part
+tooltipbuttonTrailerLicensePlateEdit;Edit License plate
+tooltipbuttonTrailerRepair;Repair whole trailer
+tooltipbuttonTruckElRepair;Repair this part
+tooltipbuttonTruckLicensePlateEdit;Edit License plate
+tooltipbuttonTruckReFuel;Refuel truck
+tooltipbuttonTruckRepair;Repair whole truck
+tooltipbuttonUserCompanyGaragesManage;Manage
+tooltipcomboBoxPrevProfiles;[L] - Local saves\r\n[S] - Steam (only load)\r\n[C] - Custom
+tooltiplabelJobPickupTime;Tempo restante prima che il carico scompaia dal mercato\r\n(per ogni carico)
+tooltipprofileSkillsPanel0;ADR
+tooltipprofileSkillsPanel1;Lunghe distanze
+tooltipprofileSkillsPanel2;Carico di alto valore
+tooltipprofileSkillsPanel3;Carico fragile
+tooltipprofileSkillsPanel4;Consegne urgenti
+tooltipprofileSkillsPanel5;Guida ecologica
+messageBoxApplicationErrorPrefix;Si è verificato un errore nell’applicazione. Contatta lo sviluppatore all’indirizzo 
+messageBoxApplicationErrorSuffix;. Consulta il file errorlog.log per i dettagli.
+messageBoxWindowsFormsError;Errore di Windows Forms
+messageBoxNonUiError;Errore non-UI
+messageBoxFatalWindowsFormsError;Errore fatale di Windows Forms
+messageBoxFatalNonUiError;Errore non-UI fatale
+messageBoxFatalNonUiReasonPrefix;Errore non-UI fatale. Impossibile scrivere nel registro eventi.\r\nMotivo: 

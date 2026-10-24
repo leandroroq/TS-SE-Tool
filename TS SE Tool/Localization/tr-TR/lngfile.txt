@@ -1,0 +1,400 @@
+[tr-TR]
+buttonAccept;Accept
+buttonAddCustomPath;Ekle
+buttonAddUserColor;+ slot
+buttonApply;Apply
+buttonCancel;İptal
+buttonCargoMarketRandomizeCargoCity;Rastgele kargo listesi
+buttonCargoMarketRandomizeCargoCompany;Rastgele kargo listesi
+buttonCargoMarketResetCargoCity;Kargo listesini sıfırla
+buttonCargoMarketResetCargoCompany;Kargo listesini sıfırla
+buttonCheckUpdatesDownloadAndRepair;İndir ve onar
+buttonCheckUpdatesDownloadAndUpdate;İndir ve güncelle
+buttonChooseFolder;Klasör Seç
+buttonClearColor;Temizle
+buttonCloneProfile;Clone profile
+buttonConvoyToolsGPSCurrentPositionCopy;Mevcut pozisyonu kopyala
+buttonConvoyToolsGPSCurrentPositionPaste;Mevcut pozisyonu yapıştır
+buttonConvoyToolsGPSStoredGPSPathCopy;GPS yolunu kopyala
+buttonConvoyToolsGPSStoredGPSPathPaste;GPS yolunu yapıştır
+buttonConvoyToolsGPSTruckPositionMultySaveCopy;Birden fazla kayıttan kamyon pozisyonunu kopyala
+buttonConvoyToolsGPSTruckPositionMultySavePaste;Farklı kamyon konumlarıyla birden fazla kayıt oluştur
+buttonCopy;Copy
+buttonDBClear;Temizle
+buttonDBExport;Dışa Aktar
+buttonDBImport;İçe Aktar
+buttonEdit;Edit
+buttonEditCPlist;Listeyi düzenle
+buttonExport;Dışa Aktar
+buttonExportImport;Export
+buttonExportSettings;Export
+buttonFreightMarketAddJob;İşi listeye ekle
+buttonFreightMarketCancelJobEdit;Cancel
+buttonFreightMarketClearJobList;Listeyi temizle
+buttonFreightMarketEditJob;Edit Job
+buttonFreightMarketRandomizeCargo;Rastgele
+buttonImport;İçe Aktar
+buttonImportSettings;Import
+buttonMainAddCustomFolder;Özel Klasör Ekle
+buttonMainCloseSave;Unload
+buttonMainDecryptSave;Şifre Çöz
+buttonMainGameSwitchATS;ATS
+buttonMainGameSwitchETS;ETS2
+buttonMainLoadSave;Yükle
+buttonMainLoadSaveSteamCloud;Disable Steam Cloud
+buttonMainWriteSave;Kaydet
+buttonMoveSaves;> > >
+buttonOK;OK
+buttonPaste;Paste
+buttonPlayerLevelMaximum;MAX >>
+buttonPlayerLevelMinimum;<< MIN
+buttonPrepareSaves;Prepare
+buttonProfilesAndSavesOpenSaveFolder;Klasörü Aç
+buttonRenameProfile;Rename profile
+buttonReplaceColors;↑↑↑ Değiştir ↑↑↑
+buttonReset;Reset
+buttonRestoreProfileBackup;Restore profile Backup
+buttonSave;Kayıt
+buttonSelectCustomThumbnail;Select images
+buttonSelectFile;Select file ...
+buttonShareTrailerTrailerDetailsCopy;Copy Trailer Details
+buttonShareTrailerTrailerDetailsPaste;Paste Trailer Details
+buttonShareTrailerTrailerPaintCopy;Copy Paint Settings
+buttonShareTrailerTrailerPaintPaste;Paste Paint Settings
+buttonShareTrailerWholeTrailerCopy;Copy All Trailer Settings
+buttonShareTrailerWholeTrailerPaste;Paste All Trailer Settings
+buttonShareTruckTruckDetailsCopy;Kamyon ayrıntılarını kopyala
+buttonShareTruckTruckDetailsPaste;Kamyon ayrıntılarını yapıştır
+buttonShareTruckTruckPaintCopy;Boya ayarlarını kopyala
+buttonShareTruckTruckPaintPaste;Boya ayarlarını yapıştır
+buttonShareTruckWholeTruckCopy;Tüm Kamyon Ayarlarını Kopyala
+buttonShareTruckWholeTruckPaste;Tüm Kamyon Ayarlarını Yapıştır
+buttonShowTagHelpCollapse;Collapse help
+buttonShowTagHelpExpand;Expand help
+buttonSplashChecking;Checking for updates
+buttonSplashClose;Close
+buttonSplashOK;OK
+buttonUpdateCancel;Cancel
+buttonUpdateOK;OK
+buttonUserColorsShareColors;Renkleri Paylaş
+buttonUserCompanyCitiesSelectAll;Select All
+buttonUserCompanyCitiesUnSelectAll;Unselect All
+buttonUserCompanyCitiesUnVisit;Ziyaret Edilmemiş
+buttonUserCompanyCitiesVisit;Ziyaret Edilmiş
+buttonUserCompanyDriversFire;Fire
+buttonUserCompanyDriversHire;Hire
+buttonUserCompanyDriversSelectAll;Select All
+buttonUserCompanyDriversUnSelectAll;Unselect All
+buttonUserCompanyGaragesBuy;Satın Al
+buttonUserCompanyGaragesBuyDowngrade;Seviye Düşür
+buttonUserCompanyGaragesBuyUpgrade;Satın Al ve Geliştir
+buttonUserCompanyGaragesManage;Yönet
+buttonUserCompanyGaragesSelectAll;Select All
+buttonUserCompanyGaragesSell;Sat
+buttonUserCompanyGaragesUnSelectAll;Unselect All
+buttonUserCompanyGaragesUpgrade;Geliştir
+buttonUserTrailerSelectCurrent;Varsayılan Dorseyi Seç
+buttonUserTrailerSwitchCurrent;Varsayılan Dorse Olarak Ayarla
+buttonUserTruckSelectCurrent;Varsayılan
+buttonUserTruckSwitchCurrent;Varsayılan Kamyonu bu Kamyonla değiştir
+checkBoxCreateBackup;Make backup .zip file
+checkBoxCustomThumbnail;Add custom Thumbnails
+checkBoxFreightMarketFilterDestination;Filtre
+checkBoxFreightMarketFilterSource;Filtre
+checkBoxFreightMarketRandomDest;RND
+checkBoxFullCloning;Full save cloning
+checkBoxMutiCloning;Multiple clones
+checkBoxProfilesAndSavesProfileBackups;Yedekler
+checkGitHubRelesesToolStripMenuItem;Check GitHub Releases
+checkSCSForumToolStripMenuItem;Check SCS Forum
+checkTMPForumToolStripMenuItem;Check TMP Forum
+contextMenuStripCompanyDriversEdit;Edit
+contextMenuStripCompanyDriversFire;Fire
+contextMenuStripCompanyDriversHire;Hire
+contextMenuStripFreightMarketJobListDelete;Delete
+contextMenuStripFreightMarketJobListEdit;Edit
+Del;Delete
+dialogCaptionNoBackwardCompatibility;Geriye dönük uyumluluk yok
+dialogCaptionUnsupportedVersion;Test edilmemiş kayıt sürümü
+dialogTextNoBackwardCompatibility;Kayıt sürümü {0} çok ESKİ.\r\nProgramın bu sürümü bu kayıtla çalışamıyor.\r\n(Kayıt dosyasını istediğiniz zaman çözebilir ve elle düzenleyebilirsiniz)
+dialogTextUnsupportedVersion;Kayıt sürümü {0} TEST EDİLMEDİ.\r\nDevam edebilirsiniz ancak kayıt KAYDETTİKTEN SONRA BOZULABİLİR.\r\nBu durumda otomatik kayıt yerine elle alınmış kayıtları kullanın.\r\n\r\nBu kaydı YÜKLEMEK istiyor musunuz?
+error_could_not_complete_jobs_loop;İş döngüsü tamamlanamadı
+error_could_not_decode_file;Program dosyanın kodunu çözemedi
+error_could_not_find_file;Program dosya bulamadı
+error_could_not_write_to_file;Program dosyaya yazamadı
+error_during_importing_db;Veritabanı içe aktarılırken hata oluştu
+error_exception;Program istisnası
+error_file_not_decoded;Dosya kodu çözülmedi
+error_file_was_modified;Dosya oyun tarafından değiştirildi
+error_job_parameters_not_filled;Tüm iş parametreleri doldurulmadı
+error_save_version_not_detected;Kayıt edilen dosya sürümü algılanamadı
+error_sql_exception;Veritabanı istisnası
+FormAboutBox;Hakkında {0}
+FormAddCustomFolder;Özel klasörleri düzenle
+FormAIDriverEditor;Driver editor
+FormColorPicker;Renk seçici
+FormConvoyControlPositions;Convoy Control Positions
+FormConvoyControlPositionsExporting;Exporting CC positions
+FormConvoyControlPositionsImporting;Importing CC positions
+FormGaragesSoldContent;Garage items
+FormLicensePlateEdit;License Plate Editor
+FormProfileEditor;Profile manager
+FormProfileEditorRenameCloneCloning;Cloning
+FormProfileEditorRenameCloneRenaming;Renaming
+FormProfileEditorSettingsImportExportExporting;Exporting from {0}
+FormProfileEditorSettingsImportExportImporting;Importing to {0}
+FormProgramSettings;Program Settings
+FormSettings;Ayarlar
+FormShareUserColors;Oyuncu renklerini paylaş
+FormVehicleEditor;Vehicle Editor
+groupBoxDataBase;Veritabanı
+groupBoxDriverSkill;Skills
+groupBoxFolderType;Klasör tipi
+groupBoxGameType;Oyun
+groupBoxImportedColors;İthal Renkler
+groupBoxItemsToSort;Items to sort
+groupBoxMainProfilesAndSaves;Profiller ve Kayıtlar
+groupBoxOptions;Options
+groupBoxProfilePlayerLevel;Oyuncu Seviyesi
+groupBoxProfileSkill;Kariyer
+groupBoxProfileUserColors;Kullanıcı Renkleri
+groupBoxProfileUserColorsShort;User colors
+groupBoxSavedItems;Saved items
+groupBoxSelectFileExporting;Pack into .zip file
+groupBoxSelectFileImporting;Form .zip file
+groupBoxTargetProfileExporting;Put into ...
+groupBoxTargetProfileImporting;Grab from ...
+groupBoxUserTrailerShareTrailerSettings;Dosdya ayarlarını paylaş
+groupBoxUserTrailerTrailer;Dorse
+groupBoxUserTrailerTrailerDetails;Ayrıntılar
+groupBoxUserTruckShareTruckSettings;Kamyon ayarlarını paylaş
+groupBoxUserTruckTruck;Kamyon
+groupBoxUserTruckTruckDetails;Ayrıntılar
+Kilometers;Kilometre
+labelCargoMarketCity;Şehir
+labelCargoMarketCompany;Şirket
+labelCargoMarketSource;Kaynak
+labelCharCountLimit;[0/0]
+labelCheckUpdatesOnStartup;Check updates on startup
+labelCity;şehir
+labelCMTrailerType;Trailer Type
+labelCountry;Country
+labelCurrency;Para Birimi
+labelCustomPathDir;Choose folder...
+labelDayShort;D
+labelDistance;Mesafe
+labelDownloadButton;Download
+labelDownloadDescription;En son sürümü şu adresten indirebilirsiniz:
+labelDriverName;Driver name:
+labelDriverNameValue;name
+labelExistingSaves;Existing saves
+labelExportImport;Exporting
+labelFreightMarketCargo;kargo
+labelFreightMarketCity;şehir
+labelFreightMarketCompany;Şirket
+labelFreightMarketCompanyF;Şirket
+labelFreightMarketCountryF;Ülke
+labelFreightMarketDestination;Hedef
+labelFreightMarketDistance;Toplam yol uzunluğu:
+labelFreightMarketFilterMain;Filtre
+labelFreightMarketSource;Kaynak
+labelFreightMarketTrailer;Trailer
+labelFreightMarketUrgency;Acil
+labelHelpText;[ Help ? ]
+labelHourShort;h
+labelHowtoDescription;Bu nasıl kullanılır?
+labelJobPickupTime;Kargo İlgi Süresi
+labelLicensePlate;License plate
+labelLicensePlateTagsDescription;Description
+labelLicensePlateTagsHelp;Tags
+labelLoopEvery;Döngü yap
+labelnew;yeni
+labelNewJobDistance; - 
+labelNewName;New Name
+labelNewNameCloning;Name(s) for cloned profile(s):
+labelNewNameRenaming;New profile name:
+labelNewVersionStatus;VersionCheck
+labelold;eski
+labelor;veya
+labelProfileName;Profile name:
+labelProfileNameExport;Export
+labelProfileNameImport;Import
+labelProfileNameValueName;Name
+labelProfileSkill0;ADR
+labelProfileSkill1;Uzun Mesafe
+labelProfileSkill2;Yüksek Değerli Kargo
+labelProfileSkill3;Hassas Kargo
+labelProfileSkill4;Zamanında Teslimat
+labelProfileSkill5;Ekonomik Sürüş
+labelSavedDrivers;Drivers
+labelSavedDriversFormat;Drivers [ {0} | {1} ]
+labelSavedTrucks;Trucks
+labelSavedTrucksFormat;Trucks [ {0} | {1} ]
+labelSettings;Settings
+labelSettingsStatusInitializing;Initializing...
+labelSettingsStatusNotReady;Not Ready
+labelShowSplashOnStartup;Show splash screen on startup
+labelSortingDrivers;Drivers
+labelSortingDriversFormat;Drivers {0}
+labelSortingTrucks;Trucks
+labelSortingTrucksFormat;Trucks {0}
+labelSplashCannotCheck;Cannot check for updates!
+labelSplashChecking;Checking 
+labelSplashHelloDeveloper;Hello developer =)
+labelSplashLatestRepair;You are using the latest version!\r\n(Repair)
+labelSplashMissingFiles;Your version is missing important files!\r\nGetting a link 
+labelSplashMissingFilesRepair;Your version is missing important files!\r\n(Repair)
+labelSplashNewVersionAvailable;New version {0} available!\r\n(Download)
+labelSplashRestoreFiles;Getting a link to restore important files
+labelSplashUpdateFailed;Something went wrong. Please use links below for manual update.
+labelSupportDeveloper;Help developer
+labelSupportedGameVersions;Desteklenen oyun sürümleri
+labelTagHelpCollapse;Collapse help
+labelTagHelpExpand;Expand help
+labelThumbnailDescription;Image size needs to be at least 64 x 64 pixels
+labelTrailerPartNameBody;Gövde
+labelTrailerPartNameCargo;Kargo
+labelTrailerPartNameChassis;Şasi
+labelTrailerPartNameWheels;Tekerlekler
+labelTruckDetailsFuel;Yakıt
+labelTruckPartNameCabin;Kabin
+labelTruckPartNameChassis;Şaşi
+labelTruckPartNameEngine;Motor
+labelTruckPartNameTransmission;Vites
+labelTruckPartNameWheels;Tekerlekler
+labelUpdateCannotCheck;Güncellemeler denetlenemiyor.
+labelUpdateChecking;Güncellemeler denetleniyor
+labelUpdateCheckingFile;Dosya denetleniyor…
+labelUpdateDownloaded;İndirildi!
+labelUpdateDownloading;İndiriliyor…
+labelUpdateHashMismatch;Dosya özeti eşleşmiyor!
+labelUpdateHelloDeveloper;Merhaba geliştirici
+labelUpdateLatest;En son sürümü kullanıyorsunuz.
+labelUpdateNewVersion;Yeni sürüm {0} mevcut!
+labelUpdateNewVersionAvailable;Yeni sürüm {0} mevcut!\r\nGüncellemek için İndir düğmesine tıklayın.
+labelUpdateNewVersionAvailablePrompt;Yeni sürüm {0} mevcut!\r\nGüncellemek için İndir düğmesine tıklayın.
+labelUpdateReady;Güncelleme için hazır.
+labelUpdateScheduledExit;Çalışmanıza devam edebilirsiniz.\r\nGüncelleme çıkışta başlayacak.
+labelUpdateStartingUpdater;Güncelleyici başlatılıyor
+labelUpdateUpdaterMissing;Updater.exe bulunamadı
+labelUserCompanyCompanyName;Şirket Adı
+labelUserCompanyDrivers;Drivers
+labelUserCompanyGarages;Garajlar
+labelUserCompanyHQcity;Genel Merkez
+labelUserCompanyMoneyAccount;Hesaptaki Para
+labelUserCompanyVisitedCities;Ziyaret edilmiş şehirler
+labelUserTrailerLicensePlate;Plaka
+labelUserTruckLicensePlate;Plaka
+labelVersion;Version {0} (alpha)
+labelWeight;Weight
+labelWorkInProgress;Work In Progress
+Large;Büyük
+linkLabelForumSCS;SCS Forum
+linkLabelForumTMP;TruckersMP Forum
+linkLabelLocalPDF;Local PDF
+message_database_created;Veritabanı yapısı oluşturuldu.
+message_database_missing_creating_db;Database file is missing. Veritabanı oluşturuluyor...
+message_database_missing_creating_db_structure;Veritabanı dosyası eksik. Veritabanı yapısı oluşturuluyor...
+message_decoding_save_file;Kayıt dosyası çözülüyor...
+message_exporting_database;Veritabanı dışa aktarılıyor...
+message_file_saved;Dosya kayır edildi.
+message_importing_database;Veritabanı içe aktarılıyor...
+message_loading_save_file;Kayıt dosyası yükleniyor...
+message_no_matching_cities;Filtre ayarlarıyla eşleşen şehir yok.
+message_operation_finished;Görev tamamlandı.
+message_preparing_data;Veriler hazırlanıyor...
+message_saving_file;Dosya kaydediliyor...
+Miles;Mil
+Not owned;Sahipsiz
+panelShareColorsHelpDragDrop;Use [Drag & Drop] to move imported colors [One by one] or as a [Group] into the palette.
+radioButtonMove;Move
+radioButtonNamesCustom;Custom names
+radioButtonNamesNone;Don't include names
+radioButtonNamesOriginal;Original names
+radioButtonProfileFolderType;Profil Klasöri
+radioButtonRootFolderType;Kök Klasör
+radioButtonSaveFolderType;Kayıt Klasöri
+radioButtonSelect;Select
+radioButtonUnknownFolderType;Bilinmeyen
+Small;Küçük
+stringAxlesCount;Axles - {0}
+stringBodyType;{0}
+stringCargoContainer;(Container)
+stringChainType;{0}
+stringDriverShort;D
+stringFormAboutBoxtextBoxDescription;This program created by\r\nLIPtoH <{0}>\r\n{1}\r\n\r\nTools and projects used to create this tool:\r\n\r\n
+stringInUse;In use
+stringItemMissing;-- NONE --
+stringKilograms;Kilograms
+stringKilometers;Kilometers
+stringKilometersShort;km
+stringLarge;Large
+stringMiles;Miles
+stringMilesShort;mi
+stringNot owned;Not owned
+stringPounds;Pounds
+stringQuickJobTruckShort;Q
+stringSmall;Small
+stringTiny;Tiny
+stringTrailerShort;T
+stringUsersTruckShort;U
+stringVehicleShort;V
+tabPageCargoMarket;Kargo Pazarı
+tabPageCompany;Şirket
+tabPageConvoyTools;Konvoy Araçları
+tabPageDrivers;Drivers
+tabPageFreightMarket;Yük Pazarı
+tabPageGarages;Garages
+tabPageProfile;Profil
+tabPageTrailer;Dorse
+tabPageTruck;Kamyon
+tabPageVisitedCities;Visited cities
+Tiny;Çok Küçük
+toolStripMenuItemAbout;Hakkında
+toolStripMenuItemCheckUpdates;Check for updates
+toolStripMenuItemCreateTrFile;Çeviri Yap
+toolStripMenuItemDownload;İndir
+toolStripMenuItemExit;Çıkış
+toolStripMenuItemHelp;Yardım
+toolStripMenuItemLanguage;Dil
+toolStripMenuItemLocalPDF;Local PDF file
+toolStripMenuItemProgram;Program
+toolStripMenuItemProgramSettings;Program settings
+toolStripMenuItemSettings;Ayarlar
+toolStripMenuItemTutorial;How to use it
+toolStripMenuItemYouTubeVideo;YouTube Video
+tooltipbuttonADR0;Patlayıcılar
+tooltipbuttonADR1;Gazlar
+tooltipbuttonADR2;Yanıcı sıvılar
+tooltipbuttonADR3;Yanıcı katılar
+tooltipbuttonADR4;Zehirli ve bulaşıcı maddeler
+tooltipbuttonADR5;Aşındırıcı maddeler
+tooltipbuttonPlayerLevelMaximum;150 level
+tooltipbuttonPlayerLevelMinimum;0 level
+tooltipbuttonProfilesAndSavesEditProfile;Profile manager
+tooltipbuttonProfilesAndSavesRefreshAll;Tazele
+tooltipbuttonProfilesAndSavesRestoreBackup;Restore from Backup
+tooltipbuttonSkill;{0} level
+tooltipbuttonTrailerElRepair;Repair this part
+tooltipbuttonTrailerLicensePlateEdit;Edit License plate
+tooltipbuttonTrailerRepair;Repair whole trailer
+tooltipbuttonTruckElRepair;Repair this part
+tooltipbuttonTruckLicensePlateEdit;Edit License plate
+tooltipbuttonTruckReFuel;Refuel truck
+tooltipbuttonTruckRepair;Repair whole truck
+tooltipbuttonUserCompanyGaragesManage;Manage
+tooltipcomboBoxPrevProfiles;[L] - Local saves\r\n[S] - Steam (only load)\r\n[C] - Custom
+tooltiplabelJobPickupTime;How much time till cargo will disapeare from market\r\n(adds for every cargo)
+tooltipprofileSkillsPanel0;ADR
+tooltipprofileSkillsPanel1;Uzun mesafe
+tooltipprofileSkillsPanel2;Yüksek değerli yük
+tooltipprofileSkillsPanel3;Kırılabilir yük
+tooltipprofileSkillsPanel4;Zamanında teslimat
+tooltipprofileSkillsPanel5;Ekonomik sürüş
+messageBoxApplicationErrorPrefix;Uygulamada bir hata oluştu. Geliştiriciyle şu adresten iletişime geçin: 
+messageBoxApplicationErrorSuffix;. Ayrıntılar için errorlog.log dosyasına bakın.
+messageBoxWindowsFormsError;Windows Forms hatası
+messageBoxNonUiError;Arayüz dışı hata
+messageBoxFatalWindowsFormsError;Kritik Windows Forms hatası
+messageBoxFatalNonUiError;Kritik arayüz dışı hata
+messageBoxFatalNonUiReasonPrefix;Kritik arayüz dışı hata. Olay günlüğüne yazılamadı.\r\nNeden: 
